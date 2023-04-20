@@ -1,2 +1,3 @@
 # Timesheet-filler-outer
-Fills out your timesheet for you!
+This will fill out your excel timesheet for you
+You can edit the cell assignments as needed
